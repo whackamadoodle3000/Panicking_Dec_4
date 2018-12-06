@@ -15,6 +15,7 @@ public class main {
 			}
 			else {
 				System.out.println("You guessed wrong.");
+				num = guess.nextInt();
 			}
 		}
 	}
